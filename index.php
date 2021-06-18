@@ -10,7 +10,7 @@ $test="Hello PHP";
 echo "hello, " .$name. "Today is ". $day;
 echo'<p>',$day .'<p>';
 ?>
-
+<!-- div containing php code-->
 <div style="background-color:green;color:white;
 ">
 <?php echo $test;?>
